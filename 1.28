@@ -22,7 +22,7 @@
 */
 
 // *** USER PARAMETERS ***
-#define MY_CALLSIGN ""            // callsign here will display on line 2 when otherwise blank (tks Richard, VE3YSH)
+#define MY_CALLSIGN "TA3CM"            // callsign here will display on line 2 when otherwise blank (tks Richard, VE3YSH)
 #define FAST_TUNE_DELAY 300       // fast tuning step delay in ms (when tuning pot is at the upper or lower limit)(tks Bob, N4FV)
 
 // tuning range parameters
